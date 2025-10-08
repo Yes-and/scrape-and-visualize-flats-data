@@ -1,8 +1,10 @@
-# Data for term paper for vizualization, description and comparation of economic data
+# Scrape and visualize publicly available flats data
 
-Simple python script for extracting second-hand flats data from sreality.<br>
+> This data was used for term paper for vizualization, description and comparation of economic data
 
-Usage<br>
+Simple python script for extracting second-hand flats data from sreality.
+
+Usage:
 1. Create venv
 2. Install requirements.txt
 3. Activate venv
