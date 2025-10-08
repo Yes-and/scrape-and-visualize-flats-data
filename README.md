@@ -1,6 +1,6 @@
 # Scrape and visualize publicly available flats data
 
-> This data was used for term paper for vizualization, description and comparation of economic data
+> This data was used for term paper for a subject
 
 Simple python script for extracting second-hand flats data from sreality.
 
